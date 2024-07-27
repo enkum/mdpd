@@ -1,0 +1,11 @@
+S3method(plot, mdpd)
+S3method(print, mdpd)
+
+export(covMdpd)
+export(print.mdpd)
+export(plot.mdpd)
+export(bdp.max)
+export(bdp.p.alpha)
+export(alpha.p.bdp)
+export(h.bdp.n.p)
+

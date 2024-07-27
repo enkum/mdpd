@@ -1,0 +1,12 @@
+Package: mdpd
+Type: Package
+Title: Minimum Density Power Divergence Estimation for Multivariate Datasets
+Version: 1.0.0
+Author: Michael Pokojovy, Andrews T. Anum, Ebenezer Nkum, Abhijit Mandal
+Maintainer: Michael Pokojovy <michael.pokojovy@gmail.com>
+Description: Computes location and scatter estimates for contaminated multivariate dataset.
+License: GNU
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+NeedsCompilation: no
+Packaged: 2024-07-27 01:06:59 UTC; Andrews
